@@ -1,0 +1,15 @@
+Nombre : JUAN DE JESUS
+Apellidos : VELASCO TORRES
+Edad : 19
+Telefono : 9671274747
+Estatura : 1.60
+Genero : Masculino
+
+Fecha de registro : 11/10/2026 21:07:33
+Nombre : Juan De Jesus
+Apellidos : Velasco Torres
+Edad : 19
+Telefono : 9671372345
+Estatura : 1.60 m
+Genero : Masculino
+
